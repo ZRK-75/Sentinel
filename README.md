@@ -13,8 +13,8 @@ L'installation se fait directement depuis GitHub.
 ### 1. Cloner le dépôt
 Ouvre **Termux** (ou ton terminal) et tape :
 ```bash
-git clone https://github.com/sentinel071/Sentinel-tool.git
-cd Sentinel-tool
+git clone https://github.com/sentinel071/Sentinel.git
+cd Sentinel
 pkg update -y && pkg upgrade -y
 pkg install -y python git
 pip install discord.py aiohttp colorama
