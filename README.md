@@ -13,7 +13,7 @@ L'installation se fait directement depuis GitHub.
 ### 1. Cloner le dépôt
 Ouvre **Termux** (ou ton terminal) et tape :
 ```bash
-git clone https://github.com/sentinel071/Sentinel.git
+git clone https://github.com/ZRK-75/Sentinel.git
 cd Sentinel
 pkg update -y && pkg upgrade -y
 pkg install -y python git
